@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://pn-koba.go.id/wp-content/uploads/2021/09/whatsapp-bot.png" width=40% height=40%>
+<img src="https://pn-koba.go.id/wp-content/uploads/2021/09/whatsapp-bot.png" width=30% height=30%>
   
 ## 📖 Description
 A Simple Bot made using Python to Send WhatsApp Message.
